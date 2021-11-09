@@ -1,0 +1,10 @@
+.list {
+    padding: 8px;
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+}
+.item {
+    height: 100%;
+    width: 1px;
+}
